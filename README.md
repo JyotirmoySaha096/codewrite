@@ -1,3 +1,7 @@
+# Link to the demo of website: https://codewrite-ecafb.web.app
+
+This project is a clone of codepen where we can write and run our code. Here, now only HTML, CSS and JS is supported. Also, as this project is ongoing there are some functionalities which will be added next.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
